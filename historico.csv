@@ -1,0 +1,4 @@
+date,home_team,away_team,home_goals,away_goals,result
+2023-04-10,Team A,Team B,2,1,home
+2023-04-11,Team C,Team D,0,1,away
+2023-04-12,Team E,Team F,1,1,draw
